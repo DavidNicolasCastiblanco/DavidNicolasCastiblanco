@@ -1,13 +1,9 @@
 <h2 align="left">Hi 👋, I'm Nicolás</h2>
 <h3 align="leftr">Mechatronics Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidnicolascastiblanco&label=Profile%20views&color=0e75b6&style=flat" alt="davidnicolascastiblanco" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidnicolascastiblanco" alt="davidnicolascastiblanco" /></a> </p>
-
 - 🔭 I’m currently working on [Techne Research Group](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000019173)
 
-- 👨‍💻 All of my projects are available at [https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000137801](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000137801)
+- 👨‍💻 All of my projects are available at [Cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000137801)
 
 - 📝 I regularly write articles on [Hardware Development and Energy Systems](Hardware Development and Energy Systems)
 
