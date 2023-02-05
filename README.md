@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Nicolás Castiblanco</h2>
+<h2 align="left">Hi 👋, I'm Nicolás</h2>
 <h3 align="leftr">Mechatronics Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidnicolascastiblanco&label=Profile%20views&color=0e75b6&style=flat" alt="davidnicolascastiblanco" /> </p>
