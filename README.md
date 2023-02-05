@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Cvlac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000137801)
 
-- 📝 I regularly write articles on [Hardware Development and Energy Systems](Hardware Development and Energy Systems)
+- 📝 I regularly write articles on [Hardware Development and Energy Systems]
 
 - 📄 Know about my experiences [I am an experienced engineer with a broad background in different engineering fields, including electronics, mechanics, pneumatics, and programming. My education and work experience have honed my ability to handle critical situations effectively and efficiently. My emphasis is on delivering investigative and innovative solutions and collaborating to resolve problems. I possess a strong suitability for working in research and innovation and project development.](I am an experienced engineer with a broad background in different engineering fields, including electronics, mechanics, pneumatics, and programming. My education and work experience have honed my ability to handle critical situations effectively and efficiently. My emphasis is on delivering investigative and innovative solutions and collaborating to resolve problems. I possess a strong suitability for working in research and innovation and project development.)
 
